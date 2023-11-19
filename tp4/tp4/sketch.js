@@ -1,3 +1,6 @@
+// Clara Ponz Ruiz 91472/1 recuperatorio del tp4
+// video explicativo: https://youtu.be/AN5_eyuiIQo
+
 var bird;
 var score = 0;
 var pipes = [];
